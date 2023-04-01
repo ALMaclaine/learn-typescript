@@ -6,3 +6,4 @@
 - https://www.sitepoint.com/compile-time-immutability-in-typescript/
 - https://javascript.plainenglish.io/advanced-trick-for-using-typescript-interfaces-661d406ae786
 - https://javascript.plainenglish.io/5-very-useful-tricks-for-typescript-never-type-d54dc6c2562
+- https://itnext.io/mastering-typescript-21-best-practices-for-improved-code-quality-2f7615e1fdc3
